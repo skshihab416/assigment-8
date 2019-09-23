@@ -1,0 +1,264 @@
+header{
+	background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../img/bg.png)center top;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+	
+
+}
+.hero{
+	
+	margin-top: 40px;
+	margin-bottom: 50px;
+
+}
+.hero img{
+	display: block;
+	width: 50%;
+	height: 80%;
+}
+
+.fast h2{
+     background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3));
+	color: #fff;
+	width: 65%;
+	height: 15%;
+
+
+
+}
+
+.fast p{
+	font-size: 15px;
+	margin-top: 20px;
+	color: #fff;
+
+}
+
+
+.underline{
+	width: 50px;
+	height: 10px;
+	background-color:red;
+
+}
+.button{
+	background: transparent;
+	color: #fff;
+	border: 2px solid #fff;
+
+	padding: 5px 35px;
+	margin-top: 50px;
+	margin-bottom: 20%;
+
+
+}
+.button:hover{
+	background-color: black;
+
+}
+
+
+
+
+
+
+.breadcrumb{
+	background: none;
+	font-size: 20px;
+	margin-top: 20px;
+
+
+}
+.breadcrumb-item{
+
+	margin: 20px;
+	color: #fff;
+}
+
+
+.max{
+	background-color: #f6f6f6;
+
+
+}
+.second h2 {
+	font-size: 35px;
+	margin-top: 100px;
+	color: #333333;
+
+}
+.second p{
+	color: #c7c7c7;
+	margin-top: 50px;
+	margin-bottom: 50px;
+
+}
+
+
+.parand{
+	
+	position: relative;
+}
+
+.child img{
+position: absolute;
+width: 300%;
+top: 40%;
+right: 20%;
+}
+
+
+
+
+
+.max-two{
+	background-color: #28282e;
+
+
+}
+.therd h2 {
+	font-size: 35px;
+	margin-top: 100px;
+	color: #fff;
+
+}
+.therd p{
+	color: #c7c7c7;
+	margin-top: 50px;
+	margin-bottom: 50px;
+
+}
+
+.button-two{
+	background: transparent;
+	color: #fff;
+	border: 2px solid #fff;
+	padding: 10px 20px;
+	margin-top: 20px;
+	margin-bottom: 80px;
+
+}
+.button-two:hover{
+	background-color: black;
+
+}
+
+
+.parand-two{
+	
+	position: relative;
+}
+
+.child-two img{
+position: absolute;
+width: 100%;
+top: 40%;
+right: 10%;
+}
+
+footer{
+	background-color: #ef4035;
+	padding: 20px;
+
+}
+.fourth{
+	text-align: center;
+	color: #fff;
+	margin-top: 10px;
+	margin-bottom: 10px;
+
+
+}
+
+
+
+
+@media(min-width: 320px) and (max-width: 500px){
+
+
+	.fast h2{
+	
+	width: 60%;
+	height: 12%;
+	font-size: 25px;
+	
+
+
+}
+
+.fast p{
+	font-size: 12px;
+	margin-top: 35px;
+
+}
+.button{
+	
+	padding: 5px 20px;
+	margin: 20px 0px;
+
+}
+
+
+
+	.second h2 {
+   margin-top: 60px;
+	font-size: 20px;
+	
+
+}
+.second p{
+
+	margin-top: 30px;
+	margin-bottom: 30px;
+
+}
+
+.button-two{
+	
+	padding: 5px 15px;
+	margin-top: 20px;
+	margin-bottom: 80px;
+
+}
+
+
+.child-two img{
+	width: 80%;
+top: 20%;
+right: 10%;
+}
+
+.fourth{
+	
+	margin-top: 30px;
+	
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
